@@ -1,0 +1,22 @@
+.buttonContainedTextAndIco {
+  position: absolute;
+  top: 0;
+  left: 106px;
+}
+.buttonPrimaryTextAntButton {
+  position: absolute;
+  top: 569px;
+  left: 159px;
+}
+.buttonDefaultBsButton,
+.groupDiv {
+  position: absolute;
+  top: 182px;
+  left: 0;
+}
+.groupDiv {
+  top: 1147px;
+  left: 416px;
+  width: 233px;
+  height: 601px;
+}
